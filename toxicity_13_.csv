@@ -1,0 +1,14 @@
+Molecule,Canonical SMILES,Toxicity class,LD50 mg/kg
+Syringic acid,COc1cc(cc(c1O)OC)C(=O)O,4,1700
+Apigenin,Oc1ccc(cc1)c1cc(=O)c2c(o1)cc(cc2O)O,5,2500
+Ascorbic acid,OC[C@@H]([C@H]1OC(=O)C(=C1O)O)O,5,3367
+Vanillic acid,COc1cc(ccc1O)C(=O)O,4,2000
+Ergometrine,OC[C@@H](NC(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)C,3,227
+Ergometrinine,OC[C@@H](NC(=O)[C@@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)C,3,227
+Tricin,COc1cc(cc(c1O)OC)c1cc(=O)c2c(o1)cc(cc2O)O,5,4000
+Ascorbic acid,OC[C@@H]([C@H]1OC(=O)C(=C1O)O)O,5,3367
+Syringic acid,COc1cc(cc(c1O)OC)C(=O)O,4,1700
+Vanillic acid,COc1cc(ccc1O)C(=O)O,4,2000
+Syringic acid,COc1cc(cc(c1O)OC)C(=O)O,4,1700
+Apigenin,Oc1ccc(cc1)c1cc(=O)c2c(o1)cc(cc2O)O,5,2500
+Vanillic acid,COc1cc(ccc1O)C(=O)O,4,2000
